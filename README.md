@@ -1,6 +1,7 @@
-# SeatingProblem
+# SeatingProblem  
 
 This repo came from a request my IB European History teacher, Mr. Tim Bray, had. His request follows. 
+
 ---
 ## HELP for a Mathematically Challenged Social Studies Teacher
 
